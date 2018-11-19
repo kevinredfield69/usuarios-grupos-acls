@@ -4,13 +4,13 @@
 
 * Crea 3 grupos en LDAP dentro de una unidad organizativa diferente que sean objetos del tipo groupOfNames. Estos grupos serán: comercial, almacen y admin
 
-*Añade usuarios que pertenezcan a:
+* Añade usuarios que pertenezcan a:
 
-	-> Solo al grupo comercial
-        -> Solo al grupo almacen
-        -> Al grupo comercial y almacen
-        -> Al grupo admin y comercial
-        -> Solo al grupo admin
+	* Solo al grupo comercial
+	* Solo al grupo almacen
+	* Al grupo comercial y almacen
+	* Al grupo admin y comercial
+	* Solo al grupo admin
 
 * Modifica OpenLDAP apropiadamente para que se pueda obtener los grupos a los que pertenece cada usuario a través del atributo "memberOf".
 
