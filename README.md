@@ -6,11 +6,11 @@
 
 * Añade usuarios que pertenezcan a:
 
-	-> Solo al grupo comercial
-	-> Solo al grupo almacen
-	-> Al grupo comercial y almacen
-	-> Al grupo admin y comercial
-	-> Solo al grupo admin
+	* Solo al grupo comercial
+	* Solo al grupo almacen
+	* Al grupo comercial y almacen
+	* Al grupo admin y comercial
+	* Solo al grupo admin
 
 * Modifica OpenLDAP apropiadamente para que se pueda obtener los grupos a los que pertenece cada usuario a través del atributo "memberOf".
 
