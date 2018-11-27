@@ -1,0 +1,8 @@
+dn: cn=Almacen,ou=Empleados,dc=gonzalonazareno,dc=org
+objectClass: top
+objectClass: groupOfNames
+cn: Almacen
+member: uid=steve.carrell,ou=Empleados,dc=gonzalonazareno,dc=org 
+member: uid=eduardo.braojos,ou=Empleados,dc=gonzalonazareno,dc=org
+member: uid=paul.dano,ou=Empleados,dc=gonzalonazareno,dc=org 
+member: uid=jake.gyllenhaal,ou=Empleados,dc=gonzalonazareno,dc=org

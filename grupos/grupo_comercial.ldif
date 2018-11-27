@@ -1,0 +1,10 @@
+dn: cn=Comercial,ou=Empleados,dc=gonzalonazareno,dc=org
+objectClass: top
+objectClass: groupOfNames
+cn: Comercial
+member: uid=benicio.deltoro,ou=Empleados,dc=gonzalonazareno,dc=org
+member: uid=encarni.alcocer,ou=Empleados,dc=gonzalonazareno,dc=org 
+member: uid=paul.dano,ou=Empleados,dc=gonzalonazareno,dc=org 
+member: uid=jake.gyllenhaal,ou=Empleados,dc=gonzalonazareno,dc=org
+member: uid=josh.brolin,ou=Empleados,dc=gonzalonazareno,dc=org
+member: uid=jaime.noguera,ou=Empleados,dc=gonzalonazareno,dc=org 

@@ -1,0 +1,8 @@
+dn: cn=Admin,ou=Empleados,dc=gonzalonazareno,dc=org
+objectClass: top
+objectClass: groupOfNames
+cn: Admin
+member: uid=hugh.jackman,ou=Empleados,dc=gonzalonazareno,dc=org 
+member: uid=christian.bale,ou=Empleados,dc=gonzalonazareno,dc=org
+member: uid=josh.brolin,ou=Empleados,dc=gonzalonazareno,dc=org
+member: uid=jaime.noguera,ou=Empleados,dc=gonzalonazareno,dc=org 

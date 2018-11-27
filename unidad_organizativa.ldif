@@ -1,0 +1,5 @@
+dn: ou=Empleados,dc=gonzalonazareno,dc=org
+objectClass: top
+objectClass: organizationalUnit
+ou: Empleados
+
